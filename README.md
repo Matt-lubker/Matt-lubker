@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Matt!</h1>
-<p> Hey! I'm Matt, i have a passion for programming, cybersecurity, and Linux plus, I've been obsessed with guitars for as long as I can remember.</p>
+<p> I have a passion for programming, cybersecurity, and Linux plus, I've been obsessed with guitars for as long as I can remember.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
